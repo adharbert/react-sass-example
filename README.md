@@ -31,3 +31,7 @@ Open up settings, then open JSON and add the config section
         }
     ]
 ```
+
+
+## Node version
+v20.12.2

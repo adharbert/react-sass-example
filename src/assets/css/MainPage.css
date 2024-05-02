@@ -1,0 +1,27 @@
+.mainPage {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.mainPage h1 {
+  color: rgb(134, 18, 18);
+}
+.mainPage button {
+  width: 200px;
+  height: 40px;
+  background-color: rgb(134, 18, 18);
+  border: none;
+  border-radius: 8px;
+  color: rgb(241, 244, 245);
+  font-size: 28px;
+}
+
+button {
+  width: 200px;
+  height: 40px;
+  background-color: rgb(105, 23, 105);
+  border: none;
+  border-radius: 8px;
+  color: rgb(241, 244, 245);
+  font-size: 30px;
+}
